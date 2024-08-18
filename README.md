@@ -1,6 +1,6 @@
 # Unify
 
-## A development of Unify psd template into html
+## Unify psd template to html development
 
 <img src="https://res.cloudinary.com/dl1sztvng/image/upload/v1723939789/jqqtcluljqg0jeg2b6dr.png" width="931"/>
 
